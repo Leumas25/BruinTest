@@ -1,0 +1,5 @@
+# Python dependencies required by the trips.py ingestion asset
+
+pandas==2.2.0
+requests==2.31.0
+pyarrow==14.0.1
