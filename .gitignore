@@ -5,3 +5,5 @@ __pycache__/
 *.py[cod]
 logs/queries
 duckdb.db
+# Ignore local DuckDB database
+duckdb.db
